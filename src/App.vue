@@ -10,9 +10,9 @@
 export default {
 	name: 'app',
 	props: {
-secondName: {
-type: String, default: 'sfaglkkals',
-}
+		secondName: {
+			type: String, default: 'sfaglkkals',
+		}
 	},
 	data () {
 		return {
