@@ -10,10 +10,10 @@ module.exports = {
 	output: {
 		path: path.resolve(__dirname, './dist'),
 		publicPath: '/dist/',
-		library: 'VueTest',
+		library: 'MogoTest',
 		libraryTarget: 'umd',
 		umdNamedDefine: true,
-		filename: 'build.js'
+		filename: 'mogo-test.js'
 	},
 	module: {
 		rules: [
