@@ -3,7 +3,7 @@
 	"description": "A Vue.js project",
 	"version": "1.0.0",
 	"author": "luckduvip <luckduvip@163.com>",
-	"main":"dist/build.js",
+	"main":"dist/mogo-test.js",
 	"license": "MIT",
 	"private": true,
 	"scripts": {
