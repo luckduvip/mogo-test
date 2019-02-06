@@ -7,6 +7,9 @@ module.exports = {
 		new VueLoaderPlugin()
 	],
 	entry: './src/index.js',
+	/*
+	 *entry: './src/main.js',
+	 */
 	output: {
 		path: path.resolve(__dirname, './dist'),
 		publicPath: '/dist/',

@@ -1,7 +1,7 @@
-import App from './App.vue'
+import VueComment from './VueComment.vue';
 const comment = {
 	install: function(Vue) {
-		Vue.component(App.name, App)
+		Vue.component(VueComment.name, VueComment)
 	}
 }
 // 这里的判断很重要

@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+	  <vue-comment></vue-comment>
     <img src="./assets/logo.png">
 	<h1>{{ msg }} ---{{secondName}}</h1>
 	<h2>{{secondName}}</h2>
