@@ -6,7 +6,7 @@ module.exports = {
 	plugins: [
 		new VueLoaderPlugin()
 	],
-	entry: './src/index.js',
+	entry: './src/App.vue',
 	/*
 	 *entry: './src/main.js',
 	 */
